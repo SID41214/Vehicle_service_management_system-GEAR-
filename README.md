@@ -3,3 +3,6 @@ Regular vehicle service is required to keep a check on various parts of the vehi
 
 The main objective of this platform is to save time by providing repair details through the application. It also helps to solve problem of customer unaware of repaired
 products of vehicle and to attain knowledge about it. Customer is able to attain preknowledge about payable amount of repair and service in advance .Both customer and staff is able to obtain an alert message about each repair and services that are to be done. Staff and admin is able to know previous service history of vehicle and the customer can view his own vehicle’s service history which is beneficiary during current repair. Customer would be able to know if there are any imposed or improper cost to its service by obtaining the correct details of service.
+
+The Vehicle Service Management System is cross-platform based application developed in flutter.The Application is named as GEAR.
+Developed in flutter with Firebase as Database for obtaining the live status of the application.
